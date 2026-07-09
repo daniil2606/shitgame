@@ -12,6 +12,6 @@ if still in ubuntu mode, run this:</br>
 ```
 if termux was closed, use this:</br>
 ```bash
-proot-distro login ubuntu --bash -c "./shitgame-linux-aarch64"
+proot-distro login ubuntu -- bash -c "./shitgame-linux-aarch64"
 ```
 im giving you all this in case you are a linux idiot
